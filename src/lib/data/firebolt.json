@@ -5,35 +5,35 @@
   "wallet_logo": "firebolt",
   "tags": [
     {
-      "title": "First Gen",
+      "title": "Five Gen",
       "type": "gen",
-      "description": "A first generation coinjoin protocol is a term used to describe protocols before the invention of Zerolink such as Joinmarket because they lack blind signing, making the coordinator aware of a user’s private information."
+      "description": "Five gen of genration for Coinjoin."
     }
   ],
-  "hero": "Joinmarket is a P2P market-based coinjoin protocol and implementation that has typically attracted more advanced and technical users.",
-  "github": "https://github.com/JoinMarket-Org/joinmarket-clientserver",
-  "twitter": "https://twitter.com/joinmarket",
-  "website": "https://github.com/JoinMarket-Org/joinmarket-clientserver",
+  "hero": "Firebolt is a P2P market-based coinjoin protocol and implementation used for mobile.",
+  "github": "https://github.com/AreaLayer/Firebolt",
+  "twitter": "https://twitter.com/AreaLayer",
+  "website": "arealayer.com",
   "basics": [
     {
       "id": "release_date",
       "title": "Release Date",
-      "body": "January 9th 2015"
+      "body": "April 18th 2023"
     },
     {
       "id": "platform",
       "title": "Platform",
-      "body": "Desktop (Mac, Windows, Linux)"
+      "body": "Mobile (Android)"
     },
     {
       "id": "programming_language",
       "title": "Code",
-      "body": "Python"
+      "body": "Javascript, Typescript"
     },
     {
       "id": "address_type",
       "title": "Address Type",
-      "body": "Segwit Native (bc1), P2SH wrapped (3)"
+      "body": "Segwit Native (bc1), P2SH wrapped (3), Taproot (bcq)"
     }
   ],
   "overview": {
